@@ -1,0 +1,24 @@
+/* seccion  dos */
+
+.section-two {
+    background-color: rgb(255, 187, 0);
+    height: 43rem;
+    position: relative;
+}
+
+.img-movil {
+    border: 1px solid white;
+    margin: 2rem 2rem;
+    padding: 4rem;
+    position: relative;
+    top: 2rem;
+}
+
+.img-movil img {
+    width: 21rem;
+    vertical-align: middle;
+}
+
+.section-two p {
+    padding: 2rem;
+}

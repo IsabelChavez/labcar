@@ -1,0 +1,18 @@
+/* Los estilos de tu proyecto */
+*{
+    color:white;
+}
+
+.navbar{
+    background: white;
+    border: none;
+}
+
+.navbar-brand img{
+    width: 9rem;
+}
+
+/* .navbar-right li a{
+    float: left;
+} */
+
