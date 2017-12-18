@@ -1,0 +1,9 @@
+/* modificando el footer */
+
+footer {
+    background-color: rgb(36, 35, 35);
+}
+
+.container-list div ul li .list {
+    list-style: none;
+}

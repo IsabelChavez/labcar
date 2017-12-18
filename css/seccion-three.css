@@ -1,0 +1,22 @@
+/* Estilos de la seccion tres */
+.section-three{
+    width: 100%;
+    position: relative;
+}
+
+.leads{
+    background: rgba(0, 0, 0, 0.281);
+    position: absolute;
+    top: 0;
+    width: inherit;
+    height: 100%;
+    padding: 5rem 2rem;
+}
+
+.leads button{
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    font-size: 1.2rem;
+    background: rgb(255, 187, 0);
+}
